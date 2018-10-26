@@ -54,7 +54,7 @@ $(document).ready(function() {
 		nav.toggleClass('open');
 	});
 
-	var type = "chinese";
+	var type = "english";
 
 	var initLaguage = function(language){
 		for(var key in language){
@@ -63,7 +63,7 @@ $(document).ready(function() {
 	}
 	
 	
-	initLaguage(chinese);
+	initLaguage(english);
 
 	$(".language").on("click", function(){
 		debugger
