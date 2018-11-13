@@ -83,7 +83,7 @@ var english = {
     ourServices:"Our Services",
 
     sea: "SEA FREIGHT",
-    seaDetail: "Containe / Breakbulk / RORO",
+    seaDetail: "Container / Breakbulk / RORO",
 
     air: "AIR FREIGHT",
     airDetail: "Airliner / Air freighter / Charter flight",
