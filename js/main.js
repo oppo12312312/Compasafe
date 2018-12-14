@@ -6,8 +6,10 @@ $(document).ready(function () {
 
 		if (scroll >= 50) {
 			$('#header').addClass('fixed');
+			$('#header').removeClass('big-title');
 		} else {
 			$('#header').removeClass('fixed');
+			$('#header').addClass('big-title');
 		}
 	});
 
